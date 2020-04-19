@@ -7,7 +7,7 @@ In this practical, all basic and all functions are in executable manner because 
 command to run:
 >python RegEx.py
 
-1❮img src=".output.png" width="100" ❯
+![](output.png)
 
 2.Also you can use sublime 3 editor: Ctrl + B to run 
 
